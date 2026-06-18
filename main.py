@@ -12,7 +12,7 @@ def main() -> QuerySet:
 
     actors = [("George", "Klooney"),
               ("Kianu", "Reaves"),
-              ("Scartlett", "Keegan"),
+              ("Scarlett", "Keegan"),
               ("Will", "Smith"),
               ("Jaden", "Smith"),
               ("Scarlett", "Johansson")
